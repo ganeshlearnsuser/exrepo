@@ -1,5 +1,6 @@
 // new comments added
 // new  changes in the comments
+//added comments in github
 package main
 
 import "fmt"
